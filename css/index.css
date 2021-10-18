@@ -144,7 +144,7 @@ main{
    width: 100%;
    background-color: #950101;
    float: left;
-   height: 400px;
+   height: 270px;
 }
 .col-5 {
     width: 30%;
@@ -155,4 +155,22 @@ main{
     margin-top: 5px;
     color: white;
     text-align: center;
+}
+.col-5 p {
+    color: white;
+    text-align: left;
+    padding-left: 120px;
+}
+.col-5 .insta, .face {
+    padding-left: 60px;
+}
+.footer-2 {
+    width: 100%;
+    background-color: #000000;
+    float: left;
+    height: 30px;
+ }
+.final p {
+    color: white;
+    font-size: 12px;
 }
